@@ -22,7 +22,7 @@ function replace(node: DOMNode, index: number, notebook: Notebook) {
         height: Number(node.attribs.height),
       };
 
-      let metadataRequestedDimensions = {
+      const metadataRequestedDimensions = {
         width: null,
         height: null,
       };
