@@ -1,0 +1,11 @@
+{
+  "roots": {
+    "feature-test": {
+      "linkInMenu": true,
+      "menuTitle": "Feature Test",
+      "rootType": "Blog",
+      "displayArticlesInMenu": true,
+      "pageTitle": "Feature Test"
+    }
+  }
+}
